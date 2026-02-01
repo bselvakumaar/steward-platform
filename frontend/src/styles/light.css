@@ -1,0 +1,6 @@
+
+body {
+  background: var(--bg-light);
+  color: var(--text-light);
+  font-family: 'Inter', sans-serif;
+}
